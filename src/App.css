@@ -1,0 +1,27 @@
+.search { width: 135px;position:absolute;top: 0}
+
+.input {left: 333px;width: 150px}
+
+.btn-search {position: absolute;top: 5px;left:483px}
+
+#mycarousel{width:700px;height:100px;position: relative;}
+
+.myimg{ width:150px;height:200px}
+
+.style1{position: relative}
+
+a {color: grey}
+a:hover, a:focus {
+    color: #F8694A;
+    text-decoration: none;
+    outline: none;
+  }
+
+.brandname{font-family: 'Indie Flower';
+    color: #F8694A;
+    font-style: italic}
+
+.bodyweb{position: absolute;top:100px;left:200px}
+
+.searchbutton{color: orange}
+.mycart{background-color: greenyellow}
